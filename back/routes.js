@@ -3,6 +3,11 @@ const router = express.Router();
 const db = require('./database');
 
 
+// Endpoint de bienvenida
+router.get('/', (req, res) => {
+    res.json({ message: 'Bienvenido a la API del panel solar' });
+});
+
 // Obtener todos los datos de todas las estaciones
 router.get('/datos', (req, res) => {
     db.query('SELECT * FROM datos_panel ORDER BY fecha_registro DESC', (err, results) => {

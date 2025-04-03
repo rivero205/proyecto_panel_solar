@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use('/api', routes);
 
 // Iniciar servidor
-const PORT = 3000;
+const PORT = 4500;
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en puertos:${PORT}`);
 });

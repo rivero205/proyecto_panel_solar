@@ -1,0 +1,102 @@
+[
+  {
+    "id_estacion": "EST001",
+    "voltaje_panel": "18.50",
+    "voltaje_bateria": "12.80",
+    "estado_carga": 85,
+    "luz_solar": 1,
+    "potencia_almacenada": "180.50",
+    "usuarios_totales": 12,
+    "fecha_registro": "2025-04-01T08:24:04.000Z"
+  },
+  {
+    "id_estacion": "EST003",
+    "voltaje_panel": "13.80",
+    "voltaje_bateria": "11.50",
+    "estado_carga": 60,
+    "luz_solar": 0,
+    "potencia_almacenada": "120.30",
+    "usuarios_totales": 28,
+    "fecha_registro": "2025-04-01T04:00:00.000Z"
+  },
+  {
+    "id_estacion": "EST002",
+    "voltaje_panel": "14.50",
+    "voltaje_bateria": "11.80",
+    "estado_carga": 65,
+    "luz_solar": 0,
+    "potencia_almacenada": "130.50",
+    "usuarios_totales": 14,
+    "fecha_registro": "2025-04-01T03:30:00.000Z"
+  },
+  {
+    "id_estacion": "EST001",
+    "voltaje_panel": "15.70",
+    "voltaje_bateria": "12.50",
+    "estado_carga": 75,
+    "luz_solar": 0,
+    "potencia_almacenada": "150.80",
+    "usuarios_totales": 18,
+    "fecha_registro": "2025-04-01T02:00:00.000Z"
+  },
+  {
+    "id_estacion": "EST003",
+    "voltaje_panel": "18.70",
+    "voltaje_bateria": "12.90",
+    "estado_carga": 88,
+    "luz_solar": 1,
+    "potencia_almacenada": "185.50",
+    "usuarios_totales": 25,
+    "fecha_registro": "2025-04-01T00:00:00.000Z"
+  },
+  {
+    "id_estacion": "EST002",
+    "voltaje_panel": "16.90",
+    "voltaje_bateria": "12.20",
+    "estado_carga": 78,
+    "luz_solar": 1,
+    "potencia_almacenada": "165.70",
+    "usuarios_totales": 11,
+    "fecha_registro": "2025-03-31T23:30:00.000Z"
+  },
+  {
+    "id_estacion": "EST001",
+    "voltaje_panel": "19.20",
+    "voltaje_bateria": "13.10",
+    "estado_carga": 90,
+    "luz_solar": 1,
+    "potencia_almacenada": "195.30",
+    "usuarios_totales": 15,
+    "fecha_registro": "2025-03-31T22:00:00.000Z"
+  },
+  {
+    "id_estacion": "EST003",
+    "voltaje_panel": "19.50",
+    "voltaje_bateria": "13.20",
+    "estado_carga": 95,
+    "luz_solar": 1,
+    "potencia_almacenada": "200.00",
+    "usuarios_totales": 20,
+    "fecha_registro": "2025-03-31T21:00:00.000Z"
+  },
+  {
+    "id_estacion": "EST002",
+    "voltaje_panel": "17.80",
+    "voltaje_bateria": "12.60",
+    "estado_carga": 82,
+    "luz_solar": 1,
+    "potencia_almacenada": "175.20",
+    "usuarios_totales": 8,
+    "fecha_registro": "2025-03-31T20:30:00.000Z"
+  },
+  {
+    "id_estacion": "EST001",
+    "voltaje_panel": "18.50",
+    "voltaje_bateria": "12.80",
+    "estado_carga": 85,
+    "luz_solar": 1,
+    "potencia_almacenada": "180.50",
+    "usuarios_totales": 12,
+    "fecha_registro": "2025-03-31T20:00:00.000Z"
+  }
+]
